@@ -42,4 +42,12 @@ Once you finish the assignment, submit a URL link to your repository or your pul
 
 <br>
 
+
+##  GitHub Repositories
+- https://github.com/JesusCiber/StudentInfoService
+- https://github.com/JesusCiber/GradeDataService
+- https://github.com/JesusCiber/student-catalog-serviceFeignClients.git
+- https://github.com/JesusCiber/Gateway.git
+
+
 **Note**: In this lab, we will use the code created in the previous lab. If you have not been able to complete it, you may ask your teacher for the solution of the previous lab so you can work with this one.
